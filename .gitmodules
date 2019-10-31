@@ -1,0 +1,3 @@
+[submodule "bundle/onedark"]
+	path = bundle/onedark
+	url = https://github.com/joshdick/onedark.vim.git
